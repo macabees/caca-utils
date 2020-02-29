@@ -1,5 +1,5 @@
 # caca-utils
-## libcaca is a graphics library that outputs text instead of pixels. 
+libcaca is a graphics library that outputs text instead of pixels. 
 
 Press Enter key to change the screens or press ESC to quit.
 
