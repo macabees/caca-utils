@@ -1,5 +1,7 @@
 # caca-utils
-## libcaca is a graphics library that outputs text instead of pixels. Press Enter key to change the screens or press ESC to quit.
+## libcaca is a graphics library that outputs text instead of pixels. 
+
+Press Enter key to change the screens or press ESC to quit.
 
 ## caca-utils (Project Info)
 [Website](http://caca.zoy.org/wiki/libcaca)
